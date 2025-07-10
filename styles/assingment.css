@@ -15,6 +15,10 @@
 
 }
 
+.dark-2 {
+    color: #474747a4;
+}
+
 /* header styles */
 .main-banner {
     background-image: url(../Assets/Hero-bg.png);
@@ -39,12 +43,36 @@
     font-size: xx-large;
 }
 
-
-/* .nav-option {
+/* action styles */
+.action-section {
+    margin-top: 94px;
+    margin-left: 140px;
+    margin-right: 140px;
+    /* text-align: center; */
     display: flex;
+    gap: 550px;
     align-items: center;
-    gap: 2041px;
-    padding-top: 50px;
-    padding-right: 150px;
-    padding-left: 150px;
-} */
+
+}
+
+.action-tiltle {
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+
+}
+
+.action-description {
+    text-align: left;
+    font-size: larger;
+}
+
+.action-image {
+    border-radius: 50px;
+    height: 250px;
+    width: 300px;
+}
+
+.launch-btn {
+    text-align: left;
+}
