@@ -1,0 +1,50 @@
+/* shared styles */
+.uni-button {
+    background-color: #4E47FF;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 15px 18px 15px 18px;
+}
+
+.uni-logo {
+    color: #4E47FF;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+
+}
+
+/* header styles */
+.main-banner {
+    background-image: url(../Assets/Hero-bg.png);
+    height: 500px;
+
+}
+
+.nav-option {
+    display: flex;
+    align-items: center;
+    gap: 1200px;
+    padding: 60px;
+}
+
+
+
+
+
+.banner-text {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+}
+
+
+/* .nav-option {
+    display: flex;
+    align-items: center;
+    gap: 2041px;
+    padding-top: 50px;
+    padding-right: 150px;
+    padding-left: 150px;
+} */
