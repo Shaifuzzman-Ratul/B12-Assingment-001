@@ -80,11 +80,11 @@
 /* action styles */
 .action-section {
     margin-top: 94px;
-    margin-left: 140px;
+    margin-left: 160px;
     margin-right: 140px;
 
     display: flex;
-    gap: 500px;
+    gap: 450px;
     align-items: center;
 
 }
@@ -120,7 +120,7 @@
 }
 
 .productive-title {
-    /* font-family: ; */
+
     padding-top: 50px;
 
     font-family: "Raleway", sans-serif;
@@ -259,20 +259,18 @@
     gap: 100px;
     padding-top: 100px;
 
-    /* margin-left: 150px;
-    margin-right: 150px; */
     margin-top: 100px;
     margin-bottom: 60px;
 }
 
 .newsletter-title {
-    /* text-align: center; */
+
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
     font-weight: bold;
     font-style: normal;
     font-size: 60px;
-    /* text-align: center; */
+
     padding-top: 60px;
 
 
@@ -290,16 +288,15 @@
 
 .form {
     display: flex;
-    /* justify-content: center;
-    align-items: center; */
+
 }
 
 .form-box {
-    /* height: 64px; */
+
     border-radius: 10px;
     border-color: #9f9ef636;
     background-color: rgb(255, 255, 255);
-    /* display: block; */
+
     width: 400px;
     height: 40px;
     padding: 10px 20px;
@@ -320,8 +317,8 @@
     font-size: 15px;
 }
 
-.form-btn {
-    width: 400px;
+.getin-btn {
+    width: 440px;
 
 }
 
@@ -353,8 +350,7 @@
     display: flex;
     gap: 50px;
     padding-left: 350px;
-    /* 
-    justify-content: space-evenly; */
+
     margin: 30px 200px;
 }
 
